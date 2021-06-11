@@ -1,3 +1,10 @@
 test file
 
+<<<<<<< HEAD
 Some text
+=======
+Good code
+
+acknowledged - kavya
+Hi - Please add comments
+>>>>>>> cc3f3fe283a4ed3d38e007424816ee458726ccfa
