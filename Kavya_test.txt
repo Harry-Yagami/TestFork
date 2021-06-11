@@ -1,10 +1,18 @@
 test file
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Some text
 =======
+=======
+>>>>>>> e9db1e2a20d2fba8d4b7ad2e1d9d63c4feca2787
 Good code
 
 acknowledged - kavya
 Hi - Please add comments
+<<<<<<< HEAD
 >>>>>>> cc3f3fe283a4ed3d38e007424816ee458726ccfa
+=======
+
+my comments
+>>>>>>> e9db1e2a20d2fba8d4b7ad2e1d9d63c4feca2787
